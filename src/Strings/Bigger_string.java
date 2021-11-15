@@ -5,6 +5,8 @@ public class Bigger_string {
 
     String JumblingTwoString(String s1,String s2)
     {
+
+
         int low;
         String w="";
         if(s1.length()>s2.length())
